@@ -11,5 +11,5 @@ mio esempio Tinkercad.
 # Link Tinkercad
 https://www.tinkercad.com
 
-#Link per scaricare Arduino IDE
+# Link per scaricare Arduino IDE
 https://www.arduino.cc/en/software
